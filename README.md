@@ -1,2 +1,2 @@
 # hello-world
-I like Kobe, I like playing basketball
+I like Kobe, I like playing basketball.
